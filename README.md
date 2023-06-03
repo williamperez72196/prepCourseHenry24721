@@ -1,2 +1,1 @@
-# prepCourseHenry24721
-Este es un repositorio de prueba del PrepCourse Henry desde la nube
+este proyecto es una prueba de como clonar un repositorio desde github y llevarlo a nuestro directorio local de trabajo en la pc
