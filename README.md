@@ -1,1 +1,1 @@
-este proyecto es una prueba de como clonar un repositorio desde github y llevarlo a nuestro directorio local de trabajo en la pc
+Ahora subiremos este repositorioa github poniendo en practica lo aprendido e el prepcourse 
