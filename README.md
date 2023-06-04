@@ -1,1 +1,1 @@
-Ahora subiremos este repositorioa github poniendo en practica lo aprendido e el prepcourse 
+Ahora subiremos este repositorioa github poniendo en practica lo aprendido en el prepcourse! 
